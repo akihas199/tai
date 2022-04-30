@@ -1,0 +1,14 @@
+h2 {background-color:yellow;}
+h1 {color:blue;}
+h3,h4 {color:red;}
+h6 {border-bottom:1px solid blue;}
+h5 {border:1px solid green;}
+p.purple{color:purple;}
+p.pink {color:pink;}
+p.brown {color:brown;}
+body{font-family:aria;
+font-weight:bolder;
+background-color:#ffcf79;}
+a:link {color:blue;}
+a:visited {color:green;}
+a:hover {color:yellow;}
